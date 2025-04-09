@@ -1,7 +1,7 @@
 package dictionaries
 
 type GateLine struct {
-	Id                    uint8
+	id                    uint8
 	Name                  string
 	Description           string
 	Gates                 Gate
@@ -9,5 +9,5 @@ type GateLine struct {
 	FallPlanet            CelestialBody
 	ExaltationDescription string
 	FallDescription       string
-	UpdatedDateTime       string
+	updatedDateTime       string
 }

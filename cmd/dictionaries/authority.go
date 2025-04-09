@@ -1,9 +1,9 @@
 package dictionaries
 
 type Authority struct {
-	Id              uint8
+	id              uint8
 	Name            string
 	Prevalence      string
 	MakeDecisions   string
-	UpdatedDateTime string
+	updatedDateTime string
 }

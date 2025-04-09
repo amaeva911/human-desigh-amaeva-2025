@@ -1,7 +1,7 @@
 package dictionaries
 
 type Bodigraf struct {
-	Id               uint64
+	id               uint64
 	BirthDateTimeUtc string
 	Agress           Adress
 	UserName         string
@@ -10,5 +10,5 @@ type Bodigraf struct {
 	Authority        Authority
 	Certainty        Certainty
 	SvgBodigraf      string
-	CreatedDateTime  string
+	createdDateTime  string
 }

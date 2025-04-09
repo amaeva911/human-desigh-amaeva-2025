@@ -1,8 +1,8 @@
 package dictionaries
 
 type Certainty struct {
-	Id              uint8
+	id              uint8
 	Name            string
 	Characteristic  string
-	UpdatedDateTime string
+	updatedDateTime string
 }

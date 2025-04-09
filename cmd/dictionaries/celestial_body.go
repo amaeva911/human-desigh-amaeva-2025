@@ -1,9 +1,9 @@
 package dictionaries
 
 type CelestialBody struct {
-	Id              uint8
+	id              uint8
 	Name            string
 	Description     string
 	Symbol          rune
-	UpdatedDateTime string
+	updatedDateTime string
 }
