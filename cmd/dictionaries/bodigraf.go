@@ -1,7 +1,7 @@
 package dictionaries
 
 type Bodigraf struct {
-	id               uint64
+	Id               uint64
 	BirthDateTimeUtc string
 	Agress           Adress
 	UserName         string

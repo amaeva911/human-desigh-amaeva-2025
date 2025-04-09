@@ -1,7 +1,7 @@
 package dictionaries
 
 type Adress struct {
-	id              uint64
+	Id              uint64
 	Country         string
 	Region          string
 	City            string

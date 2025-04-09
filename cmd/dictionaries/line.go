@@ -1,7 +1,7 @@
 package dictionaries
 
 type Line struct {
-	id              uint8
+	Id              uint8
 	Name            string
 	Subject         string
 	Description     string

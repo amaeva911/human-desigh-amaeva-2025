@@ -1,7 +1,7 @@
 package dictionaries
 
 type Profile struct {
-	id              uint8
+	Id              uint8
 	PersonalityLine Line
 	DesignLine      Line
 	Name            string

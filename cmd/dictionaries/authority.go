@@ -1,7 +1,7 @@
 package dictionaries
 
 type Authority struct {
-	id              uint8
+	Id              uint8
 	Name            string
 	Prevalence      string
 	MakeDecisions   string

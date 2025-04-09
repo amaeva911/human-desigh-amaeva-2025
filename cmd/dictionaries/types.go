@@ -1,7 +1,7 @@
 package dictionaries
 
 type Type struct {
-	id              uint8
+	Id              uint8
 	Name            string
 	Description     string
 	updatedDateTime string
